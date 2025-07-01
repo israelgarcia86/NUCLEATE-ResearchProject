@@ -1,0 +1,4 @@
+*.vtk
+*.log
+__pycache__/
+.env

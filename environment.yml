@@ -1,0 +1,7 @@
+name: nucleate-env
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - scipy
+  - jupyter

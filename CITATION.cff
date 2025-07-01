@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-authors:
-  - family-names: Borrell
-    given-names: Ricard
-  - family-names: García
-    given-names: Israel
-message: "If you use this software, please cite it as below."
-title: "NUCLEATE: Numerical models and Algorithms for High Performance Structural Mechanics"
-year: 2025

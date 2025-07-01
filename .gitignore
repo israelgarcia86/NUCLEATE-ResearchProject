@@ -1,4 +1,5 @@
 *.vtk
+*.vtu
 *.log
 __pycache__/
 .env

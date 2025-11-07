@@ -1,7 +1,7 @@
 # NUCLEATE: Numerical models and Algorithms for High Performance Structural Mechanics
 
 **Funded by**: Spanish Ministry of Science and Innovation  
-**Who**: Israel G. García (IP) (Universidad de Sevilla), Adrià Quintanas-Corominas (Barcelona Supercomputing Center), Ricard Borrell (Former co-IP) (Barcelona Supercomputing Center), 
+**Who**: Israel G. García (IP) (Universidad de Sevilla), Adrià Quintanas-Corominas (Barcelona Supercomputing Center), Ricard Borrell (Former co-IP) (Barcelona Supercomputing Center), María Teresa Aranda Romero (US), Pablo Olivares Rodríguez (US), Ángel Valverde González (ULoyola)
 
 ## Overview
 
@@ -64,3 +64,6 @@ We acknowledge the computational support from:
 
 - [Israel G. García (US)](israelgarcia@us.es)
 - [Adrià Quintanas-Corominas (BSC)](adria.quintanas@bsc.es)
+- [María Teresa Aranda Romero (US)](maranda2@us.es)
+- [Pablo Olivares Rodríguez (US)](polivares@us.es)
+- [AÁngel Valverde González (ULoyola)](ajvalverde@uloyola.es)

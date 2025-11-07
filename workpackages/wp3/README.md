@@ -1,6 +1,6 @@
 ### WP3 – Advanced material models
 
-**Leader**: Israel García (Universidad de Sevilla)
+**Leader**: Adrià Quintanas (BSC), Pablo Olivares (US), María Teresa Aranda (US), Israel García (Universidad de Sevilla), Ángel Valverde (ULoyola)
 
 **Participants**: US
 

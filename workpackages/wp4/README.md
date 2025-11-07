@@ -1,8 +1,8 @@
 ### WP4 – Failure across scales in thermoplastic composites
 
-**Leader**: Israel García (Universidad de Sevilla)
+**Leader**: Israel García (Universidad de Sevilla), Adrià Quintanas (BSC), María Teresa Aranda (US).
 
-**Participants**: US
+**Participants**: US, BSC.
 
 **Goal**: Understand initiation and propagation of damage in long-fiber reinforced thermoplastics across scales, with simulations validated by experiments.
 

@@ -1,6 +1,6 @@
 ### WP2 – Scalable and robust linear and non-linear solvers
 
-**Leader**: Ricard Borrell (BSC)
+**Leader**: Ricard Borrell (BSC), Adrià Quintanas (BSC), Israel García (US)
 
 **Participants**: BSC, US
 

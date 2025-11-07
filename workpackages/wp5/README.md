@@ -1,8 +1,8 @@
 ### WP5 – Fracture and fatigue in endovascular stents
 
-**Leader**: Israel García (Universidad de Sevilla)
+**Leader**: Israel García (Universidad de Sevilla), Adrià Quintanas (BSC)
 
-**Participants**: US, GMU
+**Participants**: US, BSC
 
 **Goal**: Simulate fracture in shape-memory alloy stents under service conditions (mainly fatigue), enabling patient-specific modeling strategies.
 

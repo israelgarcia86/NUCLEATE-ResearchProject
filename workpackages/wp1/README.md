@@ -1,6 +1,6 @@
 ### WP1 – Development of Exascale software
 
-**Leader**: Ricard Borrell (BSC)
+**Leader**: Ricard Borrell (BSC), Adrià Quintanas (BSC)
 
 **Participants**: BSC
 
